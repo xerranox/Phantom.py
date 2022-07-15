@@ -1,0 +1,2 @@
+Phantom.py is an edit-free python script that will help you start ethical hacking in a simple way, it currently receives updates and may have bugs that will be fixed soon, if you want to share your edited script with other people contact me to see how it is done and I give you the opportunity to share it, (IF A SCRIPT WAS NOT REVIEWED BY ME, DO NOT DOWNLOAD IT, IT CAN BE DANGEROUS), if it was reviewed by me, it will be on this list:
+<br>·Phantom.py (Original): Made By: xerranox
